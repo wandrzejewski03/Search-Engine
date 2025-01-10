@@ -38,4 +38,4 @@ This project explores and evaluates traditional and neural-based retrieval model
 - All file paths in the project are currently hardcoded and need to be modified for your local setup.
 - Place datasets in the appropriate locations.
 
-- Data for the project : 
+- Data for the project : https://drive.google.com/drive/folders/1n1UCe9G54t7ZaHGC_3jUfrn5cvjErcgJ?usp=sharing
